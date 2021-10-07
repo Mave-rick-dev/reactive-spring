@@ -32,10 +32,7 @@ Hence:
 
 
 Four interfaces of Reactive Stream
-					- they don't support flat map and map and filters
-
-Project Reactor sits on top of Reactive Streams
-
-
-A repository is an object that handles the data access logic
-
+ - Publisher/Producer
+ - Subscriber/Consumer
+ - Subscription
+ - Processor
